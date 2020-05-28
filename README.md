@@ -4,7 +4,7 @@ Feed Forward Neural Network (FNN)
 My work for learning to perform feed forward neural networks.
 
 
-MNIST     |     RAINING ACCURACY: 98%     |     VALIDATION ACCURACY 97%
+MNIST     |     TRAINING ACCURACY: 98%     |     VALIDATION ACCURACY 97%
 
 3 fully connected layers with 100 hidden features each.
 Stochastic gradient descent optimization.
